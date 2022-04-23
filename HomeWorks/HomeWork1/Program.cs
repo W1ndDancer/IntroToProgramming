@@ -44,9 +44,9 @@ Console.Write("More magic?! Ok. Just tonight, just for U! Input ur integer numbe
 int num = Convert.ToInt32(Console.ReadLine());
 int remainder = num % 2;
 if (remainder == 0)
-    Console.Write(num + " is even. Wohooo!");
+    Console.Write(num + " its even. Wohooo!");
 else
-    Console.Write(num + " is NOT even. NOT Wohooo:(");
+    Console.Write(num + " its NOT even. NOT Wohooo:(");
 */
 
 //Задача 4: Напишите программу, которая на вход принимает число (N), а на выходе показывает все чётные числа от 1 до N.
