@@ -1,4 +1,4 @@
-﻿// TASK 1. Program must give u a ramdom number in next interval [10;99] and show max numeric of this number.
+﻿// TASK 1. Program must give u a ramdom number in next interval [10;99] and show max digit of this number.
 
 // 1st var. Using void method
 /*
