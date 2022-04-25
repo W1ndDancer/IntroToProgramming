@@ -6,8 +6,8 @@
 /*
 int Show2ndDigit(int n)
 {
-    int del1stDigit = n/10;
-    int del3dDigit = del1stDigit%10;
+    int del1stDigit = n / 10;
+    int del3dDigit = del1stDigit % 10;
     return del3dDigit;
 }
 
@@ -31,22 +31,22 @@ else
 /*
 void Show3rdDigit(int n)
 {
-    if(n>99 && n<1000)
+    if (n > 99 && n < 1000)
     {
-        int digit3rd = n%10;
+        int digit3rd = n % 10;
         Console.Write("3rd-digit is ---> " + digit3rd);
     }
-    if(n>999)
+    if (n > 999)
     {
-        while(n>999)
+        while (n > 999)
         {
-            int delLastDigit = n/10;
+            int delLastDigit = n / 10;
             n = delLastDigit;
         }
-        int digit3rd = n%10;
+        int digit3rd = n % 10;
         Console.Write("3rd-digit is ---> " + digit3rd);
     }
-    if(n<100)
+    if (n < 100)
         Console.Write("This number has no 3rd-digit");
 }
 
@@ -60,6 +60,7 @@ Show3rdDigit(num);
 // 7 -> да
 // 1 -> нет
 
+/*
 void WeekendDay(int day)
 {
     if (day < 1 || day > 7)
@@ -74,3 +75,4 @@ Console.Write("Input a day number ");
 int dayNumber = Convert.ToInt32(Console.ReadLine());
 
 WeekendDay(dayNumber);
+*/
