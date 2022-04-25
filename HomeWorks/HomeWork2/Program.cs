@@ -28,7 +28,7 @@ else
 // 78 -> третьей цифры нет
 // 32679 -> 6
 
-
+/*
 void Show3rdDigit(int n)
 {
     if(n>99 && n<1000)
@@ -53,9 +53,24 @@ void Show3rdDigit(int n)
 Console.Write("Input some integer number ---> ");
 int num = Math.Abs(Convert.ToInt32(Console.ReadLine()));
 Show3rdDigit(num);
-
+*/
 
 // Задача 15: Напишите программу, которая принимает на вход цифру, обозначающую день недели, и проверяет, является ли этот день выходным.
 // 6 -> да
 // 7 -> да
 // 1 -> нет
+
+void WeekendDay(int day)
+{
+    if (day < 1 || day > 7)
+        Console.WriteLine("Dont be a Don Quijote. This day is not existing. Bye!");
+    if (day >= 1 && day <= 5)
+        Console.WriteLine("Today U must WORK!");
+    if (day == 6 || day == 7)
+        Console.WriteLine("Today is a weekend. Lets drink some beer)");
+}
+
+Console.Write("Input a day number ");
+int dayNumber = Convert.ToInt32(Console.ReadLine());
+
+WeekendDay(dayNumber);
