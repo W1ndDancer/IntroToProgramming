@@ -29,6 +29,31 @@ else
 // 32679 -> 6
 
 
+void Show3rdDigit(int n)
+{
+    if(n>99 && n<1000)
+    {
+        int digit3rd = n%10;
+        Console.Write("3rd-digit is ---> " + digit3rd);
+    }
+    if(n>999)
+    {
+        while(n>999)
+        {
+            int delLastDigit = n/10;
+            n = delLastDigit;
+        }
+        int digit3rd = n%10;
+        Console.Write("3rd-digit is ---> " + digit3rd);
+    }
+    if(n<100)
+        Console.Write("This number has no 3rd-digit");
+}
+
+Console.Write("Input some integer number ---> ");
+int num = Math.Abs(Convert.ToInt32(Console.ReadLine()));
+Show3rdDigit(num);
+
 
 // Задача 15: Напишите программу, которая принимает на вход цифру, обозначающую день недели, и проверяет, является ли этот день выходным.
 // 6 -> да
