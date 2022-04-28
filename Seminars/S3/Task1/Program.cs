@@ -30,7 +30,7 @@ else
 
 */
 
-// Task 2. Program take a number of quarter and then program must show range for x and y coordinates for this quarter
+// Task 1.2. Program take a number of quarter and then program must show range for x and y coordinates for this quarter
 
 /*
 
