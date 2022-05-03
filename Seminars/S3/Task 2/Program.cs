@@ -3,8 +3,8 @@
 /*
 double distance(int x1, int y1, int x2, int y2)
 {
-    int distX12 = x2 - x1;
-    int distY12 = y2 - y1;
+    double distX12 = x2 - x1;
+    double distY12 = y2 - y1;
     double distBetween2Points = Math.Sqrt(distX12 * distX12 + distY12 * distY12);
     return distBetween2Points;
 }
