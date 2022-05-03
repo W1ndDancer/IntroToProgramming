@@ -1,5 +1,6 @@
-﻿Console.WriteLine("Jak se jmenujes?");
-string username = Console.ReadLine();
-Console.Write("Ahoj,");
-Console.WriteLine(username);
+﻿
+// Console.WriteLine("Jak se jmenujes?");
+// string username = Console.ReadLine();
+// Console.Write("Ahoj,");
+// Console.WriteLine(username);
 
