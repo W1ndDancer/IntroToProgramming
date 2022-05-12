@@ -103,17 +103,17 @@ int[] CreateRandomArray(int size, int min, int max)
     return array;
 }
 
-// int[] CreateArray(int size, int min, int max)
-// {
-//     int[] array = new int[size];
+int[] CreateArray(int size)
+{
+    int[] array = new int[size];
 
-//     for (int i = 0; i < size; i++)
-//     {
-//         Console.Write("Input" + i + "element --> ");
-//         array[i] = Convert.ToInt32(Console.ReadLine());
-//     }
-//     return array;
-// }
+    for (int i = 0; i < size; i++)
+    {
+        Console.Write("Input " + i + " element --> ");
+        array[i] = Convert.ToInt32(Console.ReadLine());
+    }
+    return array;
+}
 
 void ShowArray(int[] array)
 {
