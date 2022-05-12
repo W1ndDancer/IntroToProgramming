@@ -14,7 +14,7 @@
 
 // Console.Write(maxArray);
 
-// TASK 2. We Have one-dimesional array, what contains N elements, we need to find an element of array what is equal FIND.
+// TASK 2. We Have one-dimesional array, what contains N elements, we need to find an index of element of array what is equal FIND.
 
 int[] array = { 17, 92, 53, 34, 15, 26, 27, 39, 34 };
 int n = array.Length;
