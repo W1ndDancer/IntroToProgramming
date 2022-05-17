@@ -1,6 +1,6 @@
 ﻿// ARRAY METHODS
 
-void CreateRandomNPrintArray(int size, int min, int max)
+void CreateRandomArrayNPrint(int size, int min, int max)
 {
     int[] array = new int[size];
 
@@ -79,4 +79,24 @@ void FillMatrix(int[,] matrix)
     }
 }
 
+// MATHEMATICS METHODS
 
+bool IsTriangleExist(int a, int b, int c)
+{
+    if (a < b + c && b < a + c && c < a + b)
+    {
+        return true;
+    }
+    return false;
+}
+
+int ExponantiateANumber(int numA, int numB)
+{
+    int exponAtoB = 1;
+
+    for (int i = 1; i <= numB; i++)
+    {
+        exponAtoB = exponAtoB*numA;
+    }
+    return exponAtoB;
+}
