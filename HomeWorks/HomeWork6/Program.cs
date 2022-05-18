@@ -3,7 +3,7 @@
 // 1, -7, 567, 89, 223-> 4
 
 /*
-int[] CreateArray(int size)
+int[] CreateAndShowArray(int size)
 {
     int[] array = new int[size];
 
@@ -28,7 +28,7 @@ void CountNumbersGreaterThenZero(int[] array)
 Console.Write("How much numbers do U want to enter? --> ");
 int number = Convert.ToInt32(Console.ReadLine());
 
-int[] arrayForTask = CreateArray(number);
+int[] arrayForTask = CreateAndShowArray(number);
 Console.WriteLine();
 CountNumbersGreaterThenZero(arrayForTask);
 */
@@ -77,10 +77,13 @@ int[] ConvertDecimalToBinary(int decNumber, int size)
 Console.Write("Input decimal number what U want to convert --> ");
 int decNum = Convert.ToInt32(Console.ReadLine());
 
-int sizeForTask = FindSizeForBinaryNumber(decNum);
-int[] binNum = ConvertDecimalToBinary(decNum, sizeForTask);
 if(decNum == 0) Console.Write("0 --> 0");
-else ShowArray(binNum, decNum);
+else
+{
+    int sizeForTask = FindSizeForBinaryNumber(decNum);
+    int[] binNum = ConvertDecimalToBinary(decNum, sizeForTask);
+    ShowArray(binNum, decNum);
+}
 */
 
 // Задача 43: Напишите программу, которая найдёт точку пересечения двух прямых, заданных уравнениями y = k1 * x + b1, y = k2 * x + b2; 
@@ -102,5 +105,5 @@ double b2 = Convert.ToDouble(Console.ReadLine());
 
 double x = ((b2-b1)/(k1-k2));
 double y = k2*x + b2;
-Console.Write($"[{Math.Round(x,2)}; {Math.Round(y,2)}]");
+Console.Write($"({Math.Round(x,3)}; {Math.Round(y,3)})");
 */
