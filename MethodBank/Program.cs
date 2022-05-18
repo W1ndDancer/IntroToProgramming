@@ -1,4 +1,6 @@
-﻿// ARRAY METHODS
+﻿/*
+
+// ARRAY METHODS
 
 void CreateRandomArrayNPrint(int size, int min, int max)
 {
@@ -100,3 +102,5 @@ int ExponantiateANumber(int numA, int numB)
     }
     return exponAtoB;
 }
+
+*/
