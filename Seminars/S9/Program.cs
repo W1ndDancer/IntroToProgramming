@@ -15,6 +15,7 @@ ShowNumbersToN(10);
 
 // Написать рекурсивный метод который возводит число а в степень b.
 
+/*
 int exponentiateAtoB(int a, int b)
 {
 
@@ -27,3 +28,4 @@ int exponentiateAtoB(int a, int b)
 
 int n = exponentiateAtoB(3, 3);
 Console.Write(n);
+*/
