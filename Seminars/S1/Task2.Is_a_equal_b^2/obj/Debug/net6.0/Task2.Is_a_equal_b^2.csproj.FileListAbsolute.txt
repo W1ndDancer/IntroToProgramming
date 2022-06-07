@@ -1,0 +1,15 @@
+/Users/wind/Desktop/Study/4. Intro to programming. C#/S1/Task2.Is_a_equal_b^2/bin/Debug/net6.0/Task2.Is_a_equal_b^2
+/Users/wind/Desktop/Study/4. Intro to programming. C#/S1/Task2.Is_a_equal_b^2/bin/Debug/net6.0/Task2.Is_a_equal_b^2.deps.json
+/Users/wind/Desktop/Study/4. Intro to programming. C#/S1/Task2.Is_a_equal_b^2/bin/Debug/net6.0/Task2.Is_a_equal_b^2.runtimeconfig.json
+/Users/wind/Desktop/Study/4. Intro to programming. C#/S1/Task2.Is_a_equal_b^2/bin/Debug/net6.0/Task2.Is_a_equal_b^2.dll
+/Users/wind/Desktop/Study/4. Intro to programming. C#/S1/Task2.Is_a_equal_b^2/bin/Debug/net6.0/Task2.Is_a_equal_b^2.pdb
+/Users/wind/Desktop/Study/4. Intro to programming. C#/S1/Task2.Is_a_equal_b^2/obj/Debug/net6.0/Task2.Is_a_equal_b^2.csproj.AssemblyReference.cache
+/Users/wind/Desktop/Study/4. Intro to programming. C#/S1/Task2.Is_a_equal_b^2/obj/Debug/net6.0/Task2.Is_a_equal_b^2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wind/Desktop/Study/4. Intro to programming. C#/S1/Task2.Is_a_equal_b^2/obj/Debug/net6.0/Task2.Is_a_equal_b^2.AssemblyInfoInputs.cache
+/Users/wind/Desktop/Study/4. Intro to programming. C#/S1/Task2.Is_a_equal_b^2/obj/Debug/net6.0/Task2.Is_a_equal_b^2.AssemblyInfo.cs
+/Users/wind/Desktop/Study/4. Intro to programming. C#/S1/Task2.Is_a_equal_b^2/obj/Debug/net6.0/Task2.Is_a_equal_b^2.csproj.CoreCompileInputs.cache
+/Users/wind/Desktop/Study/4. Intro to programming. C#/S1/Task2.Is_a_equal_b^2/obj/Debug/net6.0/Task2.Is_a_equal_b^2.dll
+/Users/wind/Desktop/Study/4. Intro to programming. C#/S1/Task2.Is_a_equal_b^2/obj/Debug/net6.0/refint/Task2.Is_a_equal_b^2.dll
+/Users/wind/Desktop/Study/4. Intro to programming. C#/S1/Task2.Is_a_equal_b^2/obj/Debug/net6.0/Task2.Is_a_equal_b^2.pdb
+/Users/wind/Desktop/Study/4. Intro to programming. C#/S1/Task2.Is_a_equal_b^2/obj/Debug/net6.0/Task2.Is_a_equal_b^2.genruntimeconfig.cache
+/Users/wind/Desktop/Study/4. Intro to programming. C#/S1/Task2.Is_a_equal_b^2/obj/Debug/net6.0/ref/Task2.Is_a_equal_b^2.dll

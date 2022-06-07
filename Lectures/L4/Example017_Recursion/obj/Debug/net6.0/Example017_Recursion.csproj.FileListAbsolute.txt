@@ -1,0 +1,15 @@
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Lectures/L4/Example017_Recursion/bin/Debug/net6.0/Example017_Recursion
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Lectures/L4/Example017_Recursion/bin/Debug/net6.0/Example017_Recursion.deps.json
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Lectures/L4/Example017_Recursion/bin/Debug/net6.0/Example017_Recursion.runtimeconfig.json
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Lectures/L4/Example017_Recursion/bin/Debug/net6.0/Example017_Recursion.dll
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Lectures/L4/Example017_Recursion/bin/Debug/net6.0/Example017_Recursion.pdb
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Lectures/L4/Example017_Recursion/obj/Debug/net6.0/Example017_Recursion.csproj.AssemblyReference.cache
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Lectures/L4/Example017_Recursion/obj/Debug/net6.0/Example017_Recursion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Lectures/L4/Example017_Recursion/obj/Debug/net6.0/Example017_Recursion.AssemblyInfoInputs.cache
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Lectures/L4/Example017_Recursion/obj/Debug/net6.0/Example017_Recursion.AssemblyInfo.cs
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Lectures/L4/Example017_Recursion/obj/Debug/net6.0/Example017_Recursion.csproj.CoreCompileInputs.cache
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Lectures/L4/Example017_Recursion/obj/Debug/net6.0/Example017_Recursion.dll
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Lectures/L4/Example017_Recursion/obj/Debug/net6.0/refint/Example017_Recursion.dll
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Lectures/L4/Example017_Recursion/obj/Debug/net6.0/Example017_Recursion.pdb
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Lectures/L4/Example017_Recursion/obj/Debug/net6.0/Example017_Recursion.genruntimeconfig.cache
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Lectures/L4/Example017_Recursion/obj/Debug/net6.0/ref/Example017_Recursion.dll

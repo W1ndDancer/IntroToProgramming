@@ -1,0 +1,15 @@
+/Users/wind/Desktop/Study/4. Intro to programming. C#/L1/Example004_Div/bin/Debug/net6.0/Example004_Div
+/Users/wind/Desktop/Study/4. Intro to programming. C#/L1/Example004_Div/bin/Debug/net6.0/Example004_Div.deps.json
+/Users/wind/Desktop/Study/4. Intro to programming. C#/L1/Example004_Div/bin/Debug/net6.0/Example004_Div.runtimeconfig.json
+/Users/wind/Desktop/Study/4. Intro to programming. C#/L1/Example004_Div/bin/Debug/net6.0/Example004_Div.dll
+/Users/wind/Desktop/Study/4. Intro to programming. C#/L1/Example004_Div/bin/Debug/net6.0/Example004_Div.pdb
+/Users/wind/Desktop/Study/4. Intro to programming. C#/L1/Example004_Div/obj/Debug/net6.0/Example004_Div.csproj.AssemblyReference.cache
+/Users/wind/Desktop/Study/4. Intro to programming. C#/L1/Example004_Div/obj/Debug/net6.0/Example004_Div.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wind/Desktop/Study/4. Intro to programming. C#/L1/Example004_Div/obj/Debug/net6.0/Example004_Div.AssemblyInfoInputs.cache
+/Users/wind/Desktop/Study/4. Intro to programming. C#/L1/Example004_Div/obj/Debug/net6.0/Example004_Div.AssemblyInfo.cs
+/Users/wind/Desktop/Study/4. Intro to programming. C#/L1/Example004_Div/obj/Debug/net6.0/Example004_Div.csproj.CoreCompileInputs.cache
+/Users/wind/Desktop/Study/4. Intro to programming. C#/L1/Example004_Div/obj/Debug/net6.0/Example004_Div.dll
+/Users/wind/Desktop/Study/4. Intro to programming. C#/L1/Example004_Div/obj/Debug/net6.0/refint/Example004_Div.dll
+/Users/wind/Desktop/Study/4. Intro to programming. C#/L1/Example004_Div/obj/Debug/net6.0/Example004_Div.pdb
+/Users/wind/Desktop/Study/4. Intro to programming. C#/L1/Example004_Div/obj/Debug/net6.0/Example004_Div.genruntimeconfig.cache
+/Users/wind/Desktop/Study/4. Intro to programming. C#/L1/Example004_Div/obj/Debug/net6.0/ref/Example004_Div.dll

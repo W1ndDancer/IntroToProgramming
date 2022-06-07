@@ -1,0 +1,15 @@
+/Users/wind/Desktop/Study/4. Intro to programming. C#/HomeWorks/HomeWork4/bin/Debug/net6.0/HomeWork4
+/Users/wind/Desktop/Study/4. Intro to programming. C#/HomeWorks/HomeWork4/bin/Debug/net6.0/HomeWork4.deps.json
+/Users/wind/Desktop/Study/4. Intro to programming. C#/HomeWorks/HomeWork4/bin/Debug/net6.0/HomeWork4.runtimeconfig.json
+/Users/wind/Desktop/Study/4. Intro to programming. C#/HomeWorks/HomeWork4/bin/Debug/net6.0/HomeWork4.dll
+/Users/wind/Desktop/Study/4. Intro to programming. C#/HomeWorks/HomeWork4/bin/Debug/net6.0/HomeWork4.pdb
+/Users/wind/Desktop/Study/4. Intro to programming. C#/HomeWorks/HomeWork4/obj/Debug/net6.0/HomeWork4.csproj.AssemblyReference.cache
+/Users/wind/Desktop/Study/4. Intro to programming. C#/HomeWorks/HomeWork4/obj/Debug/net6.0/HomeWork4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wind/Desktop/Study/4. Intro to programming. C#/HomeWorks/HomeWork4/obj/Debug/net6.0/HomeWork4.AssemblyInfoInputs.cache
+/Users/wind/Desktop/Study/4. Intro to programming. C#/HomeWorks/HomeWork4/obj/Debug/net6.0/HomeWork4.AssemblyInfo.cs
+/Users/wind/Desktop/Study/4. Intro to programming. C#/HomeWorks/HomeWork4/obj/Debug/net6.0/HomeWork4.csproj.CoreCompileInputs.cache
+/Users/wind/Desktop/Study/4. Intro to programming. C#/HomeWorks/HomeWork4/obj/Debug/net6.0/HomeWork4.dll
+/Users/wind/Desktop/Study/4. Intro to programming. C#/HomeWorks/HomeWork4/obj/Debug/net6.0/refint/HomeWork4.dll
+/Users/wind/Desktop/Study/4. Intro to programming. C#/HomeWorks/HomeWork4/obj/Debug/net6.0/HomeWork4.pdb
+/Users/wind/Desktop/Study/4. Intro to programming. C#/HomeWorks/HomeWork4/obj/Debug/net6.0/HomeWork4.genruntimeconfig.cache
+/Users/wind/Desktop/Study/4. Intro to programming. C#/HomeWorks/HomeWork4/obj/Debug/net6.0/ref/HomeWork4.dll

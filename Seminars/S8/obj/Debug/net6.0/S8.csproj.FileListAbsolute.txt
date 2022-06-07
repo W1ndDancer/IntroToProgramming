@@ -1,0 +1,15 @@
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Seminars/S8/bin/Debug/net6.0/S8
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Seminars/S8/bin/Debug/net6.0/S8.deps.json
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Seminars/S8/bin/Debug/net6.0/S8.runtimeconfig.json
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Seminars/S8/bin/Debug/net6.0/S8.dll
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Seminars/S8/bin/Debug/net6.0/S8.pdb
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Seminars/S8/obj/Debug/net6.0/S8.csproj.AssemblyReference.cache
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Seminars/S8/obj/Debug/net6.0/S8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Seminars/S8/obj/Debug/net6.0/S8.AssemblyInfoInputs.cache
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Seminars/S8/obj/Debug/net6.0/S8.AssemblyInfo.cs
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Seminars/S8/obj/Debug/net6.0/S8.csproj.CoreCompileInputs.cache
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Seminars/S8/obj/Debug/net6.0/S8.dll
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Seminars/S8/obj/Debug/net6.0/refint/S8.dll
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Seminars/S8/obj/Debug/net6.0/S8.pdb
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Seminars/S8/obj/Debug/net6.0/S8.genruntimeconfig.cache
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Seminars/S8/obj/Debug/net6.0/ref/S8.dll

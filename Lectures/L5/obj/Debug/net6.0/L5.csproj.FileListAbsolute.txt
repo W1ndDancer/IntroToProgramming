@@ -1,0 +1,15 @@
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Lectures/L5/bin/Debug/net6.0/L5
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Lectures/L5/bin/Debug/net6.0/L5.deps.json
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Lectures/L5/bin/Debug/net6.0/L5.runtimeconfig.json
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Lectures/L5/bin/Debug/net6.0/L5.dll
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Lectures/L5/bin/Debug/net6.0/L5.pdb
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Lectures/L5/obj/Debug/net6.0/L5.csproj.AssemblyReference.cache
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Lectures/L5/obj/Debug/net6.0/L5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Lectures/L5/obj/Debug/net6.0/L5.AssemblyInfoInputs.cache
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Lectures/L5/obj/Debug/net6.0/L5.AssemblyInfo.cs
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Lectures/L5/obj/Debug/net6.0/L5.csproj.CoreCompileInputs.cache
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Lectures/L5/obj/Debug/net6.0/L5.dll
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Lectures/L5/obj/Debug/net6.0/refint/L5.dll
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Lectures/L5/obj/Debug/net6.0/L5.pdb
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Lectures/L5/obj/Debug/net6.0/L5.genruntimeconfig.cache
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Lectures/L5/obj/Debug/net6.0/ref/L5.dll

@@ -1,0 +1,15 @@
+/Users/wind/Desktop/Study/4. Intro to programming. C#/MethodBank/bin/Debug/net6.0/MethodBank
+/Users/wind/Desktop/Study/4. Intro to programming. C#/MethodBank/bin/Debug/net6.0/MethodBank.deps.json
+/Users/wind/Desktop/Study/4. Intro to programming. C#/MethodBank/bin/Debug/net6.0/MethodBank.runtimeconfig.json
+/Users/wind/Desktop/Study/4. Intro to programming. C#/MethodBank/bin/Debug/net6.0/MethodBank.dll
+/Users/wind/Desktop/Study/4. Intro to programming. C#/MethodBank/bin/Debug/net6.0/MethodBank.pdb
+/Users/wind/Desktop/Study/4. Intro to programming. C#/MethodBank/obj/Debug/net6.0/MethodBank.csproj.AssemblyReference.cache
+/Users/wind/Desktop/Study/4. Intro to programming. C#/MethodBank/obj/Debug/net6.0/MethodBank.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wind/Desktop/Study/4. Intro to programming. C#/MethodBank/obj/Debug/net6.0/MethodBank.AssemblyInfoInputs.cache
+/Users/wind/Desktop/Study/4. Intro to programming. C#/MethodBank/obj/Debug/net6.0/MethodBank.AssemblyInfo.cs
+/Users/wind/Desktop/Study/4. Intro to programming. C#/MethodBank/obj/Debug/net6.0/MethodBank.csproj.CoreCompileInputs.cache
+/Users/wind/Desktop/Study/4. Intro to programming. C#/MethodBank/obj/Debug/net6.0/MethodBank.dll
+/Users/wind/Desktop/Study/4. Intro to programming. C#/MethodBank/obj/Debug/net6.0/refint/MethodBank.dll
+/Users/wind/Desktop/Study/4. Intro to programming. C#/MethodBank/obj/Debug/net6.0/MethodBank.pdb
+/Users/wind/Desktop/Study/4. Intro to programming. C#/MethodBank/obj/Debug/net6.0/MethodBank.genruntimeconfig.cache
+/Users/wind/Desktop/Study/4. Intro to programming. C#/MethodBank/obj/Debug/net6.0/ref/MethodBank.dll

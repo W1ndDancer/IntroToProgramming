@@ -1,0 +1,15 @@
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Lectures/L4/Example015_matrix/bin/Debug/net6.0/Example015_matrix
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Lectures/L4/Example015_matrix/bin/Debug/net6.0/Example015_matrix.deps.json
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Lectures/L4/Example015_matrix/bin/Debug/net6.0/Example015_matrix.runtimeconfig.json
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Lectures/L4/Example015_matrix/bin/Debug/net6.0/Example015_matrix.dll
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Lectures/L4/Example015_matrix/bin/Debug/net6.0/Example015_matrix.pdb
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Lectures/L4/Example015_matrix/obj/Debug/net6.0/Example015_matrix.csproj.AssemblyReference.cache
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Lectures/L4/Example015_matrix/obj/Debug/net6.0/Example015_matrix.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Lectures/L4/Example015_matrix/obj/Debug/net6.0/Example015_matrix.AssemblyInfoInputs.cache
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Lectures/L4/Example015_matrix/obj/Debug/net6.0/Example015_matrix.AssemblyInfo.cs
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Lectures/L4/Example015_matrix/obj/Debug/net6.0/Example015_matrix.csproj.CoreCompileInputs.cache
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Lectures/L4/Example015_matrix/obj/Debug/net6.0/Example015_matrix.dll
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Lectures/L4/Example015_matrix/obj/Debug/net6.0/refint/Example015_matrix.dll
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Lectures/L4/Example015_matrix/obj/Debug/net6.0/Example015_matrix.pdb
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Lectures/L4/Example015_matrix/obj/Debug/net6.0/Example015_matrix.genruntimeconfig.cache
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Lectures/L4/Example015_matrix/obj/Debug/net6.0/ref/Example015_matrix.dll

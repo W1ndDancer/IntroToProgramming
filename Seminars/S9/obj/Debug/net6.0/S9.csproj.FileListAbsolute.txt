@@ -1,0 +1,15 @@
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Seminars/S9/bin/Debug/net6.0/S9
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Seminars/S9/bin/Debug/net6.0/S9.deps.json
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Seminars/S9/bin/Debug/net6.0/S9.runtimeconfig.json
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Seminars/S9/bin/Debug/net6.0/S9.dll
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Seminars/S9/bin/Debug/net6.0/S9.pdb
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Seminars/S9/obj/Debug/net6.0/S9.csproj.AssemblyReference.cache
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Seminars/S9/obj/Debug/net6.0/S9.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Seminars/S9/obj/Debug/net6.0/S9.AssemblyInfoInputs.cache
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Seminars/S9/obj/Debug/net6.0/S9.AssemblyInfo.cs
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Seminars/S9/obj/Debug/net6.0/S9.csproj.CoreCompileInputs.cache
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Seminars/S9/obj/Debug/net6.0/S9.dll
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Seminars/S9/obj/Debug/net6.0/refint/S9.dll
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Seminars/S9/obj/Debug/net6.0/S9.pdb
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Seminars/S9/obj/Debug/net6.0/S9.genruntimeconfig.cache
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Seminars/S9/obj/Debug/net6.0/ref/S9.dll

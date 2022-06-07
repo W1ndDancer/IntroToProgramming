@@ -1,0 +1,15 @@
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Lectures/L3/Example011_Methods/bin/Debug/net6.0/Example011_Methods
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Lectures/L3/Example011_Methods/bin/Debug/net6.0/Example011_Methods.deps.json
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Lectures/L3/Example011_Methods/bin/Debug/net6.0/Example011_Methods.runtimeconfig.json
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Lectures/L3/Example011_Methods/bin/Debug/net6.0/Example011_Methods.dll
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Lectures/L3/Example011_Methods/bin/Debug/net6.0/Example011_Methods.pdb
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Lectures/L3/Example011_Methods/obj/Debug/net6.0/Example011_Methods.csproj.AssemblyReference.cache
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Lectures/L3/Example011_Methods/obj/Debug/net6.0/Example011_Methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Lectures/L3/Example011_Methods/obj/Debug/net6.0/Example011_Methods.AssemblyInfoInputs.cache
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Lectures/L3/Example011_Methods/obj/Debug/net6.0/Example011_Methods.AssemblyInfo.cs
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Lectures/L3/Example011_Methods/obj/Debug/net6.0/Example011_Methods.csproj.CoreCompileInputs.cache
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Lectures/L3/Example011_Methods/obj/Debug/net6.0/Example011_Methods.dll
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Lectures/L3/Example011_Methods/obj/Debug/net6.0/refint/Example011_Methods.dll
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Lectures/L3/Example011_Methods/obj/Debug/net6.0/Example011_Methods.pdb
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Lectures/L3/Example011_Methods/obj/Debug/net6.0/Example011_Methods.genruntimeconfig.cache
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Lectures/L3/Example011_Methods/obj/Debug/net6.0/ref/Example011_Methods.dll

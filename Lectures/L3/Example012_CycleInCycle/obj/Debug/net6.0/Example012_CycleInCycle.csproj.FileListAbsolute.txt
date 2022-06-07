@@ -1,0 +1,15 @@
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Lectures/L3/Example012_CycleInCycle/bin/Debug/net6.0/Example012_CycleInCycle
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Lectures/L3/Example012_CycleInCycle/bin/Debug/net6.0/Example012_CycleInCycle.deps.json
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Lectures/L3/Example012_CycleInCycle/bin/Debug/net6.0/Example012_CycleInCycle.runtimeconfig.json
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Lectures/L3/Example012_CycleInCycle/bin/Debug/net6.0/Example012_CycleInCycle.dll
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Lectures/L3/Example012_CycleInCycle/bin/Debug/net6.0/Example012_CycleInCycle.pdb
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Lectures/L3/Example012_CycleInCycle/obj/Debug/net6.0/Example012_CycleInCycle.csproj.AssemblyReference.cache
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Lectures/L3/Example012_CycleInCycle/obj/Debug/net6.0/Example012_CycleInCycle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Lectures/L3/Example012_CycleInCycle/obj/Debug/net6.0/Example012_CycleInCycle.AssemblyInfoInputs.cache
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Lectures/L3/Example012_CycleInCycle/obj/Debug/net6.0/Example012_CycleInCycle.AssemblyInfo.cs
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Lectures/L3/Example012_CycleInCycle/obj/Debug/net6.0/Example012_CycleInCycle.csproj.CoreCompileInputs.cache
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Lectures/L3/Example012_CycleInCycle/obj/Debug/net6.0/Example012_CycleInCycle.dll
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Lectures/L3/Example012_CycleInCycle/obj/Debug/net6.0/refint/Example012_CycleInCycle.dll
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Lectures/L3/Example012_CycleInCycle/obj/Debug/net6.0/Example012_CycleInCycle.pdb
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Lectures/L3/Example012_CycleInCycle/obj/Debug/net6.0/Example012_CycleInCycle.genruntimeconfig.cache
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Lectures/L3/Example012_CycleInCycle/obj/Debug/net6.0/ref/Example012_CycleInCycle.dll

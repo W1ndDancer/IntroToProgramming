@@ -1,0 +1,15 @@
+/Users/wind/Desktop/Study/4. Intro to programming. C#/S1/Task5.ShowLastNumericOfThreeDigitNum/bin/Debug/net6.0/Task5.ShowLastNumberOfThreeDigitNum
+/Users/wind/Desktop/Study/4. Intro to programming. C#/S1/Task5.ShowLastNumericOfThreeDigitNum/bin/Debug/net6.0/Task5.ShowLastNumberOfThreeDigitNum.deps.json
+/Users/wind/Desktop/Study/4. Intro to programming. C#/S1/Task5.ShowLastNumericOfThreeDigitNum/bin/Debug/net6.0/Task5.ShowLastNumberOfThreeDigitNum.runtimeconfig.json
+/Users/wind/Desktop/Study/4. Intro to programming. C#/S1/Task5.ShowLastNumericOfThreeDigitNum/bin/Debug/net6.0/Task5.ShowLastNumberOfThreeDigitNum.dll
+/Users/wind/Desktop/Study/4. Intro to programming. C#/S1/Task5.ShowLastNumericOfThreeDigitNum/bin/Debug/net6.0/Task5.ShowLastNumberOfThreeDigitNum.pdb
+/Users/wind/Desktop/Study/4. Intro to programming. C#/S1/Task5.ShowLastNumericOfThreeDigitNum/obj/Debug/net6.0/Task5.ShowLastNumberOfThreeDigitNum.csproj.AssemblyReference.cache
+/Users/wind/Desktop/Study/4. Intro to programming. C#/S1/Task5.ShowLastNumericOfThreeDigitNum/obj/Debug/net6.0/Task5.ShowLastNumberOfThreeDigitNum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wind/Desktop/Study/4. Intro to programming. C#/S1/Task5.ShowLastNumericOfThreeDigitNum/obj/Debug/net6.0/Task5.ShowLastNumberOfThreeDigitNum.AssemblyInfoInputs.cache
+/Users/wind/Desktop/Study/4. Intro to programming. C#/S1/Task5.ShowLastNumericOfThreeDigitNum/obj/Debug/net6.0/Task5.ShowLastNumberOfThreeDigitNum.AssemblyInfo.cs
+/Users/wind/Desktop/Study/4. Intro to programming. C#/S1/Task5.ShowLastNumericOfThreeDigitNum/obj/Debug/net6.0/Task5.ShowLastNumberOfThreeDigitNum.csproj.CoreCompileInputs.cache
+/Users/wind/Desktop/Study/4. Intro to programming. C#/S1/Task5.ShowLastNumericOfThreeDigitNum/obj/Debug/net6.0/Task5.ShowLastNumberOfThreeDigitNum.dll
+/Users/wind/Desktop/Study/4. Intro to programming. C#/S1/Task5.ShowLastNumericOfThreeDigitNum/obj/Debug/net6.0/refint/Task5.ShowLastNumberOfThreeDigitNum.dll
+/Users/wind/Desktop/Study/4. Intro to programming. C#/S1/Task5.ShowLastNumericOfThreeDigitNum/obj/Debug/net6.0/Task5.ShowLastNumberOfThreeDigitNum.pdb
+/Users/wind/Desktop/Study/4. Intro to programming. C#/S1/Task5.ShowLastNumericOfThreeDigitNum/obj/Debug/net6.0/Task5.ShowLastNumberOfThreeDigitNum.genruntimeconfig.cache
+/Users/wind/Desktop/Study/4. Intro to programming. C#/S1/Task5.ShowLastNumericOfThreeDigitNum/obj/Debug/net6.0/ref/Task5.ShowLastNumberOfThreeDigitNum.dll

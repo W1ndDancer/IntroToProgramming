@@ -1,0 +1,15 @@
+/Users/wind/Desktop/Study/4. Intro to programming. C#/L1/Example006_Comparsion/bin/Debug/net6.0/Example006_Comparsion
+/Users/wind/Desktop/Study/4. Intro to programming. C#/L1/Example006_Comparsion/bin/Debug/net6.0/Example006_Comparsion.deps.json
+/Users/wind/Desktop/Study/4. Intro to programming. C#/L1/Example006_Comparsion/bin/Debug/net6.0/Example006_Comparsion.runtimeconfig.json
+/Users/wind/Desktop/Study/4. Intro to programming. C#/L1/Example006_Comparsion/bin/Debug/net6.0/Example006_Comparsion.dll
+/Users/wind/Desktop/Study/4. Intro to programming. C#/L1/Example006_Comparsion/bin/Debug/net6.0/Example006_Comparsion.pdb
+/Users/wind/Desktop/Study/4. Intro to programming. C#/L1/Example006_Comparsion/obj/Debug/net6.0/Example006_Comparsion.csproj.AssemblyReference.cache
+/Users/wind/Desktop/Study/4. Intro to programming. C#/L1/Example006_Comparsion/obj/Debug/net6.0/Example006_Comparsion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wind/Desktop/Study/4. Intro to programming. C#/L1/Example006_Comparsion/obj/Debug/net6.0/Example006_Comparsion.AssemblyInfoInputs.cache
+/Users/wind/Desktop/Study/4. Intro to programming. C#/L1/Example006_Comparsion/obj/Debug/net6.0/Example006_Comparsion.AssemblyInfo.cs
+/Users/wind/Desktop/Study/4. Intro to programming. C#/L1/Example006_Comparsion/obj/Debug/net6.0/Example006_Comparsion.csproj.CoreCompileInputs.cache
+/Users/wind/Desktop/Study/4. Intro to programming. C#/L1/Example006_Comparsion/obj/Debug/net6.0/Example006_Comparsion.dll
+/Users/wind/Desktop/Study/4. Intro to programming. C#/L1/Example006_Comparsion/obj/Debug/net6.0/refint/Example006_Comparsion.dll
+/Users/wind/Desktop/Study/4. Intro to programming. C#/L1/Example006_Comparsion/obj/Debug/net6.0/Example006_Comparsion.pdb
+/Users/wind/Desktop/Study/4. Intro to programming. C#/L1/Example006_Comparsion/obj/Debug/net6.0/Example006_Comparsion.genruntimeconfig.cache
+/Users/wind/Desktop/Study/4. Intro to programming. C#/L1/Example006_Comparsion/obj/Debug/net6.0/ref/Example006_Comparsion.dll

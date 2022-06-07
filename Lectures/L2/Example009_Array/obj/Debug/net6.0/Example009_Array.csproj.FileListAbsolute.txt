@@ -1,0 +1,15 @@
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Lectures/L2/Example009_Array/bin/Debug/net6.0/Example009_Array
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Lectures/L2/Example009_Array/bin/Debug/net6.0/Example009_Array.deps.json
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Lectures/L2/Example009_Array/bin/Debug/net6.0/Example009_Array.runtimeconfig.json
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Lectures/L2/Example009_Array/bin/Debug/net6.0/Example009_Array.dll
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Lectures/L2/Example009_Array/bin/Debug/net6.0/Example009_Array.pdb
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Lectures/L2/Example009_Array/obj/Debug/net6.0/Example009_Array.csproj.AssemblyReference.cache
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Lectures/L2/Example009_Array/obj/Debug/net6.0/Example009_Array.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Lectures/L2/Example009_Array/obj/Debug/net6.0/Example009_Array.AssemblyInfoInputs.cache
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Lectures/L2/Example009_Array/obj/Debug/net6.0/Example009_Array.AssemblyInfo.cs
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Lectures/L2/Example009_Array/obj/Debug/net6.0/Example009_Array.csproj.CoreCompileInputs.cache
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Lectures/L2/Example009_Array/obj/Debug/net6.0/Example009_Array.dll
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Lectures/L2/Example009_Array/obj/Debug/net6.0/refint/Example009_Array.dll
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Lectures/L2/Example009_Array/obj/Debug/net6.0/Example009_Array.pdb
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Lectures/L2/Example009_Array/obj/Debug/net6.0/Example009_Array.genruntimeconfig.cache
+/Users/wind/Desktop/Study/4. Intro to programming. C#/Lectures/L2/Example009_Array/obj/Debug/net6.0/ref/Example009_Array.dll

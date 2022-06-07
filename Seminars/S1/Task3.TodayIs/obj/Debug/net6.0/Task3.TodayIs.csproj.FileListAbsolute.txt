@@ -1,0 +1,15 @@
+/Users/wind/Desktop/Study/4. Intro to programming. C#/S1/Task3.TodayIs/bin/Debug/net6.0/Task3.TodayIs
+/Users/wind/Desktop/Study/4. Intro to programming. C#/S1/Task3.TodayIs/bin/Debug/net6.0/Task3.TodayIs.deps.json
+/Users/wind/Desktop/Study/4. Intro to programming. C#/S1/Task3.TodayIs/bin/Debug/net6.0/Task3.TodayIs.runtimeconfig.json
+/Users/wind/Desktop/Study/4. Intro to programming. C#/S1/Task3.TodayIs/bin/Debug/net6.0/Task3.TodayIs.dll
+/Users/wind/Desktop/Study/4. Intro to programming. C#/S1/Task3.TodayIs/bin/Debug/net6.0/Task3.TodayIs.pdb
+/Users/wind/Desktop/Study/4. Intro to programming. C#/S1/Task3.TodayIs/obj/Debug/net6.0/Task3.TodayIs.csproj.AssemblyReference.cache
+/Users/wind/Desktop/Study/4. Intro to programming. C#/S1/Task3.TodayIs/obj/Debug/net6.0/Task3.TodayIs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wind/Desktop/Study/4. Intro to programming. C#/S1/Task3.TodayIs/obj/Debug/net6.0/Task3.TodayIs.AssemblyInfoInputs.cache
+/Users/wind/Desktop/Study/4. Intro to programming. C#/S1/Task3.TodayIs/obj/Debug/net6.0/Task3.TodayIs.AssemblyInfo.cs
+/Users/wind/Desktop/Study/4. Intro to programming. C#/S1/Task3.TodayIs/obj/Debug/net6.0/Task3.TodayIs.csproj.CoreCompileInputs.cache
+/Users/wind/Desktop/Study/4. Intro to programming. C#/S1/Task3.TodayIs/obj/Debug/net6.0/Task3.TodayIs.dll
+/Users/wind/Desktop/Study/4. Intro to programming. C#/S1/Task3.TodayIs/obj/Debug/net6.0/refint/Task3.TodayIs.dll
+/Users/wind/Desktop/Study/4. Intro to programming. C#/S1/Task3.TodayIs/obj/Debug/net6.0/Task3.TodayIs.pdb
+/Users/wind/Desktop/Study/4. Intro to programming. C#/S1/Task3.TodayIs/obj/Debug/net6.0/Task3.TodayIs.genruntimeconfig.cache
+/Users/wind/Desktop/Study/4. Intro to programming. C#/S1/Task3.TodayIs/obj/Debug/net6.0/ref/Task3.TodayIs.dll
