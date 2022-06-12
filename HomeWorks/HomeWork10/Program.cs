@@ -23,7 +23,7 @@ void ShowArray(string[] array)
     Console.WriteLine();
 }
 
-int CountHowMuchWordsStatWithVowels(string[] words)
+int CountHowMuchWordsStartWithVowels(string[] words)
 {
     char[] vowels = { 'a', 'e', 'i', 'o', 'u' };
     int count = 0;
@@ -48,7 +48,7 @@ int size = Convert.ToInt32(Console.ReadLine());
 string[] newArray = CreateStringArray(size);
 
 ShowArray(newArray);
-Console.Write(CountHowMuchWordsStatWithVowels(newArray) + " words starting with vowel");
+Console.Write(CountHowMuchWordsStartWithVowels(newArray) + " words starting with vowel");
 */
 
 // Задача 2: Задайте массив строк. Напишите программу, которая генерирует новый массив, объединяя элементы исходного массива попарно.
